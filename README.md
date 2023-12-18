@@ -30,7 +30,7 @@ This C++ program is designed to provide a set of tools for performing different 
 ### Build and Run ▶️
 
 1) Create the Folder 📂
-2) Only Dowload the Tools.cpp file.
+2) Only Dowload the Tools.cpp file have all this features that are mentioned above.
 3) Paste the File in the Folder and run the file.
    
 ### **🔗 Links**
